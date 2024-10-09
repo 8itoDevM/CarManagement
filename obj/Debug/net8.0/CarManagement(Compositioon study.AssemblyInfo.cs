@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarManagement(Compositioon study")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee89b1ed72a587aa3b33c9abf16cc339d6ea1853")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c96e4cc518e9beec25be47bdc7f34ce7fdf8d9b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarManagement(Compositioon study")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarManagement(Compositioon study")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
