@@ -12,3 +12,4 @@ G:\carmanager\CarManagement(Compositioon study\CarManagement(Compositioon study\
 G:\carmanager\CarManagement(Compositioon study\CarManagement(Compositioon study\obj\Debug\net8.0\CarManagement(Compositioon study.pdb
 G:\carmanager\CarManagement(Compositioon study\CarManagement(Compositioon study\obj\Debug\net8.0\CarManagement(Compositioon study.genruntimeconfig.cache
 G:\carmanager\CarManagement(Compositioon study\CarManagement(Compositioon study\obj\Debug\net8.0\ref\CarManagement(Compositioon study.dll
+G:\carmanager\CarManagement(Compositioon study\CarManagement(Compositioon study\obj\Debug\net8.0\CarManagement(Compositioon study.sourcelink.json

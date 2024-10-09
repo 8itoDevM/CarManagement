@@ -12,20 +12,28 @@ public class Car
     private double price;
     private int usage = 0;
     private IEngine engine;
+    private int carId;
 
-    public Car(string model, string brand, int year, IEngine engine, double price)
+    public Car(string model, string brand, int year, IEngine engine, double price, int carId)
     {
         this.model = model;
         this.brand = brand;
         this.year = year;
         this.engine = engine;
         this.price = price;
+        this.carId = carId;
         usage = usage;
     }
 
     public int Usage
     {
         get { return usage; }
+    }
+
+    public int CarId
+    {
+        get { return carId; }
+        set { carId = value; }
     }
 
     public double Price
